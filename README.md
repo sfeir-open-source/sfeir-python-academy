@@ -3,7 +3,7 @@
 > A practical training program, to learn Python, when coming from a Java, .NET or Node.JS Developer background.
 
 <p align="center">
- <img style="display:block" width="20%" height="20%" src="./docs/assets/images/sfeir-school-logo.png" alt="SFEIR School logo">
+ <img style="display:block" width="884px" height="754px" src="./docs/assets/images/school/python-academy.png" alt="SFEIR School logo">
 </p>
 
 <br/>

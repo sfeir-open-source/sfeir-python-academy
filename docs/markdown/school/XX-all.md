@@ -22,7 +22,7 @@ https://t.ly/AyiAm
 
 ##==##
 
-<!-- .slide: class="transition left" -->
+<!-- .slide: class="transition-bg-green-1 left" -->
 
 # Let's get it started
 

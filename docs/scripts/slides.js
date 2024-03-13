@@ -6,7 +6,7 @@ function schoolSlides() {
 }
 
 function introSlides() {
-  return ['intro/00-TITLE.md', 'intro/01-SPEAKER-TINE-KONDO.md'];
+  return ['intro/00-TITLE.md', 'intro/01-SPEAKER-TINE-KONDO.md', 'intro/02-OBJECTIVES.md'];
 }
 
 function formation() {

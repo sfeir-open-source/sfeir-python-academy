@@ -6,7 +6,7 @@
 ![badge third-badge](assets/images/speaker/tine-kondo/oss-projects.png)
 <h2>Tine <span>Kondo</span></h2>
 
-### Senior Staff Engineer , Head of OSPO
+### Senior Staff Engineer
 <!-- .element: class="icon-rule icon-first" -->
 
 ### @tinesoft

@@ -43,5 +43,3 @@ Dedicated **SFEIR Schools** exist to later **dig deeper** into:
 * **Python 🐍**: https://github/com/sfeir-open-source/sfeir-school-python
 
 * **LangChain 🦜🔗**: https://github/com/sfeir-open-source/sfeir-school-langchain
-
-

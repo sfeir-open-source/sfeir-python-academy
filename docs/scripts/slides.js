@@ -2,7 +2,7 @@ import { SfeirThemeInitializer } from '../web_modules/sfeir-school-theme/sfeir-s
 
 // One method per module
 function schoolSlides() {
-  return ['school/OO-INTRO.md', 'school/01-OVERVIEW.md'];
+  return ['school/OO-INTRO.md', 'school/01-OVERVIEW.md', 'school/02-DEV-SETUP.md'];
 }
 
 function introSlides() {

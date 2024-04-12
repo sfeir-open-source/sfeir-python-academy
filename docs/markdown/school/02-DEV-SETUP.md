@@ -222,7 +222,6 @@ pip install virtualenv
 ### Create a **Python Virtual Environment** (venv)
 
 * Navigate to your project directory and create a virtual environment:
-
 ```bash
 cd your_project_directory
 virtualenv venv

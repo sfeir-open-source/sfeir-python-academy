@@ -28,7 +28,7 @@ This lab will show how to create a Python project in `VSCode`. We will be using 
 
 ## 2. Creating a virtual environment within the project
 1. Open an intregated Terminal 
-2. Create a virtual environment within the project root with this commande: `$ virtualenv venv`
+2. Create a virtual environment within the project root with this command: `$ virtualenv venv`
 3. Activate the virtual environment with this command: `$ source venv/bin/activate`
 
 ![Alt text](./python-venv-activated.png)

@@ -1,6 +1,6 @@
 <!-- .slide: class="first-slide" sfeir-level="1" sfeir-techno="Python" -->
 # **Welcome to SFEIR Python 🐍 Academy 📚**
-## Practial **_Python_ for _Java_, _.NET_ or _Node.JS_ Developers**
+## Practical **_Python_ for _Java_, _.NET_ or _Node.js_ Developers**
 
 ##==##
 

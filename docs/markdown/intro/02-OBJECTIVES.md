@@ -11,11 +11,11 @@ The **main goal**  of this academy is:
 * Help you get started with **Python** language and its ecosystem
     * **by leveraging similar knowledges** you may already have
     * as a **Software Developer** coming from either
-    * **Java**, **.NET**, or **Node.JS** (TypeScript/Javascript) background
+    * **Java**, **.NET**, or **Node.js** (TypeScript/Javascript) background
     * <img class="w-600" width="600px" src="./assets/images/school/python-academy.png">
     <!-- .element: class="list-fragment" -->
 
-##--##
+##==##
 
 ## Objectives
 
@@ -32,7 +32,7 @@ But instead:
 
 * ✅ a set of **scoped labs** 
 
- so you can jump into any Python project, and understand the basics about its ecosystem, and how to start editing it.
+So you can jump into any Python project, and understand the basics about its ecosystem, and how to start editing it.
 
 ##==##
 

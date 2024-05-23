@@ -1,6 +1,6 @@
 # SFEIR Python 🐍 Academy 📚
 
-> A practical training program, to learn Python, when coming from a Java, .NET or Node.JS Developer background.
+> A practical training program, to learn Python, when coming from a Java, .NET or Node.js Developer background.
 
 <p align="center">
  <img style="display:block" width="884px" height="754px" src="./docs/assets/images/school/python-academy.png" alt="SFEIR School logo">

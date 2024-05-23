@@ -187,7 +187,7 @@ Sample of a more complete **`.devcontainer/devcontainer.json`** file
 
 ### Create a **Python Virtual Environment** (venv)
 
-Just like a **`Java`**, **`.NET`**, or **`Node.JS`** project, a **`Python`** project can have dependencies too.
+Just like a **`Java`**, **`.NET`**, or **`Node.js`** project, a **`Python`** project can have dependencies too.
 
 Those depedencies can be installed with a tool named **`pip`** (**P**ackage **I**nstaller for **P**ython).
 

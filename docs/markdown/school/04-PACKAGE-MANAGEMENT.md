@@ -25,9 +25,9 @@ With a tool named **_`pip`_** (**P**ip **I**nstalls **P**ackages), they can easl
 The syntax to install a package is:
 
 ```shell
-$ pip install <package>
+$ pip install <package>             # install the latest <version> of the <package>
 
-$ pip install <package>==<version>  
+$ pip install <package>==<version>  # install the specified <version> of the <package>
 
 ```
 <!-- .element: class="big-code" -->
@@ -66,7 +66,7 @@ _**`Conda`**_ is an alternative package manager that can be used instead of _**`
 Its uses a **_`environment.yml`_** file to list dependencies to install
 
 
-Those depencencies are available on Anaconda reposiroty located at https://anaconda.org
+Those depencencies are available on Anaconda repository located at https://anaconda.org
 
 
 ##==##

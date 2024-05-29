@@ -9,6 +9,8 @@ function schoolSlides() {
     'school/03-LAB-PROJECT-SETUP.md',
     'school/04-PACKAGE-MANAGEMENT.md',
     'school/05-LAB-PKG-MANAGEMENT.md',
+    'school/06-MAIN-FRAMEWORKS.md',
+    'school/07-LAB-FLASK-SQLALCHEMY-FWKs.md',
   ];
 }
 
